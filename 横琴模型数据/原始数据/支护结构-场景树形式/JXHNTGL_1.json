@@ -1,0 +1,406 @@
+{
+    "type": "FeatureCollection",
+    "name": "JXHNTGL",
+    "file_type": "mesh",
+    "data_type": "mesh_data",
+    "color": [
+        117,
+        152,
+        176,
+        0
+    ],
+    "global_color": true,
+    "time_stamp": 1563157833,
+    "properties": {
+        "rotate": [
+            0,
+            0,
+            0
+        ],
+        "translate": [
+            0,
+            0,
+            0
+        ],
+        "matrix": [
+            [
+                1,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                0,
+                0,
+                1
+            ]
+        ],
+        "use_matrix": true,
+        "transform": true
+    },
+    "shapes_file_path": [
+        "C:/Users/linan/Desktop/tree_b\\JXHNTGL_1.json.brep"
+    ],
+    "shapes_file_path_relative": [
+        "JXHNTGL_1.json.brep"
+    ],
+    "shapes_file_type": "brep",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.36,
+                    131.043,
+                    1.7
+                ]
+            },
+            "properties": {
+                "id": "G1",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        23.36,
+                        131.043,
+                        1.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.227,
+                    91.815,
+                    1.7
+                ]
+            },
+            "properties": {
+                "id": "G2",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1
+                    ],
+                    "coordinate": [
+                        16.227,
+                        91.815,
+                        1.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.851,
+                    126.189,
+                    1.7
+                ]
+            },
+            "properties": {
+                "id": "G6",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1
+                    ],
+                    "coordinate": [
+                        60.851,
+                        126.189,
+                        1.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        1
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "12",
+                "name": "new_edge",
+                "points": "G1,G2",
+                "render_name": "JXHNTGL",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        [
+                            1.4,
+                            1.2
+                        ],
+                        [
+                            {
+                                "zjqsy": 0,
+                                "zjfw": [
+                                    0.65,
+                                    -0.55,
+                                    0.65,
+                                    0.55
+                                ],
+                                "zjpr": [
+                                    0.032,
+                                    10,
+                                    9
+                                ]
+                            },
+                            {
+                                "zjqsy": 0,
+                                "zjfw": [
+                                    -0.65,
+                                    -0.55,
+                                    -0.65,
+                                    0.55
+                                ],
+                                "zjpr": [
+                                    0.032,
+                                    10,
+                                    9
+                                ]
+                            }
+                        ],
+                        [
+                            {
+                                "gjqsy": 0.1,
+                                "gjfw": [
+                                    -0.65,
+                                    -0.55,
+                                    0.65,
+                                    0.55
+                                ],
+                                "gjpr": [
+                                    0.012,
+                                    0.4,
+                                    0
+                                ]
+                            }
+                        ]
+                    ],
+                    "coordinates": [
+                        [
+                            23.36,
+                            131.043,
+                            1.7
+                        ],
+                        [
+                            16.227,
+                            91.815,
+                            1.7
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        1
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "0",
+                "name": "new_edge",
+                "points": "G1,G6",
+                "render_name": "JXHNTGL",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        [
+                            1.4,
+                            1.2
+                        ],
+                        [
+                            {
+                                "zjqsy": 0,
+                                "zjfw": [
+                                    0.65,
+                                    -0.55,
+                                    0.65,
+                                    0.55
+                                ],
+                                "zjpr": [
+                                    0.032,
+                                    10,
+                                    9
+                                ]
+                            },
+                            {
+                                "zjqsy": 0,
+                                "zjfw": [
+                                    -0.65,
+                                    -0.55,
+                                    -0.65,
+                                    0.55
+                                ],
+                                "zjpr": [
+                                    0.032,
+                                    10,
+                                    9
+                                ]
+                            }
+                        ],
+                        [
+                            {
+                                "gjqsy": 0.1,
+                                "gjfw": [
+                                    -0.65,
+                                    -0.55,
+                                    0.65,
+                                    0.55
+                                ],
+                                "gjpr": [
+                                    0.012,
+                                    0.4,
+                                    0
+                                ]
+                            }
+                        ]
+                    ],
+                    "coordinates": [
+                        [
+                            23.36,
+                            131.043,
+                            1.7
+                        ],
+                        [
+                            60.851,
+                            126.189,
+                            1.7
+                        ]
+                    ]
+                }
+            }
+        }
+    ]
+}

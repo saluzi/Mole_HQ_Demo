@@ -1,0 +1,15 @@
+{
+    "type": "FeatureCollection",
+    "name": "step12",
+    "data_type": "structure_plan",
+    "time_stamp": 1583315363,
+    "properties_map": {},
+    "color": [
+        117,
+        152,
+        176,
+        0
+    ],
+    "global_color": false,
+    "features": []
+}

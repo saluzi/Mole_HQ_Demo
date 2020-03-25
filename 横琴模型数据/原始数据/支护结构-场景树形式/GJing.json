@@ -1,0 +1,2691 @@
+{
+    "type": "FeatureCollection",
+    "name": "GJing",
+    "file_type": "mesh",
+    "data_type": "mesh_data",
+    "color": [
+        117,
+        152,
+        176,
+        0
+    ],
+    "global_color": true,
+    "time_stamp": 1563240061,
+    "properties": {
+        "rotate": [
+            0,
+            0,
+            0
+        ],
+        "translate": [
+            0,
+            0,
+            0
+        ],
+        "matrix": [
+            [
+                1,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                0,
+                0,
+                1
+            ]
+        ],
+        "use_matrix": true,
+        "transform": true
+    },
+    "shapes_file_path": [
+        "C:/Users/linan/Desktop/tree_b\\GJing.json.brep"
+    ],
+    "shapes_file_path_relative": [
+        "GJing.json.brep"
+    ],
+    "shapes_file_type": "brep",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.028,
+                    19.376,
+                    -15.95
+                ]
+            },
+            "properties": {
+                "id": "1A",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        19.028,
+                        19.376,
+                        -15.95
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.028,
+                    19.376,
+                    -21.15
+                ]
+            },
+            "properties": {
+                "id": "1B",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        19.028,
+                        19.376,
+                        -21.15
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.151,
+                    16.569,
+                    -15.95
+                ]
+            },
+            "properties": {
+                "id": "2A",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        41.151,
+                        16.569,
+                        -15.95
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.151,
+                    16.569,
+                    -21.15
+                ]
+            },
+            "properties": {
+                "id": "2B",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        41.151,
+                        16.569,
+                        -21.15
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.174,
+                    11.75,
+                    -15.95
+                ]
+            },
+            "properties": {
+                "id": "3A",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        67.174,
+                        11.75,
+                        -15.95
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.174,
+                    11.75,
+                    -21.15
+                ]
+            },
+            "properties": {
+                "id": "3B",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        67.174,
+                        11.75,
+                        -21.15
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.017,
+                    28.604,
+                    -15.95
+                ]
+            },
+            "properties": {
+                "id": "4A",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        63.017,
+                        28.604,
+                        -15.95
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.017,
+                    28.604,
+                    -21.15
+                ]
+            },
+            "properties": {
+                "id": "4B",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        63.017,
+                        28.604,
+                        -21.15
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.27,
+                    38.641,
+                    -15.95
+                ]
+            },
+            "properties": {
+                "id": "5A",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        28.27,
+                        38.641,
+                        -15.95
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.27,
+                    38.641,
+                    -21.15
+                ]
+            },
+            "properties": {
+                "id": "5B",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        28.27,
+                        38.641,
+                        -21.15
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.484,
+                    56.173,
+                    -15.95
+                ]
+            },
+            "properties": {
+                "id": "6A",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        18.484,
+                        56.173,
+                        -15.95
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.056,
+                    48.531,
+                    -15.95
+                ]
+            },
+            "properties": {
+                "id": "7A",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        56.056,
+                        48.531,
+                        -15.95
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.056,
+                    48.531,
+                    -21.15
+                ]
+            },
+            "properties": {
+                "id": "7B",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        56.056,
+                        48.531,
+                        -21.15
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.484,
+                    56.173,
+                    -21.15
+                ]
+            },
+            "properties": {
+                "id": "6B",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        18.484,
+                        56.173,
+                        -21.15
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.414,
+                    42.967,
+                    -15.95
+                ]
+            },
+            "properties": {
+                "id": "8A",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        74.414,
+                        42.967,
+                        -15.95
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.414,
+                    42.967,
+                    -21.15
+                ]
+            },
+            "properties": {
+                "id": "8B",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        74.414,
+                        42.967,
+                        -21.15
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.756,
+                    66.849,
+                    -15.95
+                ]
+            },
+            "properties": {
+                "id": "9A",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        49.756,
+                        66.849,
+                        -15.95
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    49.756,
+                    66.849,
+                    -21.15
+                ]
+            },
+            "properties": {
+                "id": "9B",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        49.756,
+                        66.849,
+                        -21.15
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.391,
+                    78.209,
+                    -15.95
+                ]
+            },
+            "properties": {
+                "id": "10A",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        26.391,
+                        78.209,
+                        -15.95
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.391,
+                    78.209,
+                    -21.15
+                ]
+            },
+            "properties": {
+                "id": "10B",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        26.391,
+                        78.209,
+                        -21.15
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    62.385,
+                    73.885,
+                    -15.95
+                ]
+            },
+            "properties": {
+                "id": "11A",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        62.385,
+                        73.885,
+                        -15.95
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    62.385,
+                    73.885,
+                    -21.15
+                ]
+            },
+            "properties": {
+                "id": "11B",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        62.385,
+                        73.885,
+                        -21.15
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.02,
+                    70.641,
+                    -15.95
+                ]
+            },
+            "properties": {
+                "id": "12A",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        85.02,
+                        70.641,
+                        -15.95
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.02,
+                    70.641,
+                    -21.15
+                ]
+            },
+            "properties": {
+                "id": "12B",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        85.02,
+                        70.641,
+                        -21.15
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.591,
+                    89.576,
+                    -15.95
+                ]
+            },
+            "properties": {
+                "id": "13A",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        88.591,
+                        89.576,
+                        -15.95
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.591,
+                    89.576,
+                    -21.15
+                ]
+            },
+            "properties": {
+                "id": "13B",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        88.591,
+                        89.576,
+                        -21.15
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.557,
+                    91.686,
+                    -15.95
+                ]
+            },
+            "properties": {
+                "id": "14A",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        51.557,
+                        91.686,
+                        -15.95
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.557,
+                    91.686,
+                    -21.15
+                ]
+            },
+            "properties": {
+                "id": "14B",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        51.557,
+                        91.686,
+                        -21.15
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.533,
+                    97.777,
+                    -15.95
+                ]
+            },
+            "properties": {
+                "id": "15A",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        24.533,
+                        97.777,
+                        -15.95
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.533,
+                    97.777,
+                    -21.15
+                ]
+            },
+            "properties": {
+                "id": "15B",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        24.533,
+                        97.777,
+                        -21.15
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73,
+                    106.914,
+                    -15.95
+                ]
+            },
+            "properties": {
+                "id": "16A",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        73,
+                        106.914,
+                        -15.95
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73,
+                    106.914,
+                    -21.15
+                ]
+            },
+            "properties": {
+                "id": "16B",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        73,
+                        106.914,
+                        -21.15
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.444,
+                    115.166,
+                    -15.95
+                ]
+            },
+            "properties": {
+                "id": "17A",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        56.444,
+                        115.166,
+                        -15.95
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.444,
+                    115.166,
+                    -21.15
+                ]
+            },
+            "properties": {
+                "id": "17B",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        56.444,
+                        115.166,
+                        -21.15
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.047,
+                    120.222,
+                    -15.95
+                ]
+            },
+            "properties": {
+                "id": "18A",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        31.047,
+                        120.222,
+                        -15.95
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.047,
+                    120.222,
+                    -21.15
+                ]
+            },
+            "properties": {
+                "id": "18B",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "coordinate": [
+                        31.047,
+                        120.222,
+                        -21.15
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        1
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "1",
+                "name": "new_edge",
+                "points": "1A,1B",
+                "render_name": "GJing",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        0.8,
+                        0.25
+                    ],
+                    "coordinates": [
+                        [
+                            19.028,
+                            19.376,
+                            -15.95
+                        ],
+                        [
+                            19.028,
+                            19.376,
+                            -21.15
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        1
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "2",
+                "name": "new_edge",
+                "points": "2A,2B",
+                "render_name": "GJing",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        0.8,
+                        0.25
+                    ],
+                    "coordinates": [
+                        [
+                            41.151,
+                            16.569,
+                            -15.95
+                        ],
+                        [
+                            41.151,
+                            16.569,
+                            -21.15
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        1
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "3",
+                "name": "new_edge",
+                "points": "3A,3B",
+                "render_name": "GJing",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        0.8,
+                        0.25
+                    ],
+                    "coordinates": [
+                        [
+                            67.174,
+                            11.75,
+                            -15.95
+                        ],
+                        [
+                            67.174,
+                            11.75,
+                            -21.15
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        1
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "4",
+                "name": "new_edge",
+                "points": "4A,4B",
+                "render_name": "GJing",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        0.8,
+                        0.25
+                    ],
+                    "coordinates": [
+                        [
+                            63.017,
+                            28.604,
+                            -15.95
+                        ],
+                        [
+                            63.017,
+                            28.604,
+                            -21.15
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        1
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "5",
+                "name": "new_edge",
+                "points": "5A,5B",
+                "render_name": "GJing",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        0.8,
+                        0.25
+                    ],
+                    "coordinates": [
+                        [
+                            28.27,
+                            38.641,
+                            -15.95
+                        ],
+                        [
+                            28.27,
+                            38.641,
+                            -21.15
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        1
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "7",
+                "name": "new_edge",
+                "points": "7A,7B",
+                "render_name": "GJing",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        0.8,
+                        0.25
+                    ],
+                    "coordinates": [
+                        [
+                            56.056,
+                            48.531,
+                            -15.95
+                        ],
+                        [
+                            56.056,
+                            48.531,
+                            -21.15
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        1
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "8",
+                "name": "new_edge",
+                "points": "8A,8B",
+                "render_name": "GJing",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        0.8,
+                        0.25
+                    ],
+                    "coordinates": [
+                        [
+                            74.414,
+                            42.967,
+                            -15.95
+                        ],
+                        [
+                            74.414,
+                            42.967,
+                            -21.15
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        1
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "9",
+                "name": "new_edge",
+                "points": "9A,9B",
+                "render_name": "GJing",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        0.8,
+                        0.25
+                    ],
+                    "coordinates": [
+                        [
+                            49.756,
+                            66.849,
+                            -15.95
+                        ],
+                        [
+                            49.756,
+                            66.849,
+                            -21.15
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        1
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "10",
+                "name": "new_edge",
+                "points": "10A,10B",
+                "render_name": "GJing",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        0.8,
+                        0.25
+                    ],
+                    "coordinates": [
+                        [
+                            26.391,
+                            78.209,
+                            -15.95
+                        ],
+                        [
+                            26.391,
+                            78.209,
+                            -21.15
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        1
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "11",
+                "name": "new_edge",
+                "points": "11A,11B",
+                "render_name": "GJing",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        0.8,
+                        0.25
+                    ],
+                    "coordinates": [
+                        [
+                            62.385,
+                            73.885,
+                            -15.95
+                        ],
+                        [
+                            62.385,
+                            73.885,
+                            -21.15
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        1
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "12",
+                "name": "new_edge",
+                "points": "12A,12B",
+                "render_name": "GJing",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        0.8,
+                        0.25
+                    ],
+                    "coordinates": [
+                        [
+                            85.02,
+                            70.641,
+                            -15.95
+                        ],
+                        [
+                            85.02,
+                            70.641,
+                            -21.15
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        1
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "13",
+                "name": "new_edge",
+                "points": "13A,13B",
+                "render_name": "GJing",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        0.8,
+                        0.25
+                    ],
+                    "coordinates": [
+                        [
+                            88.591,
+                            89.576,
+                            -15.95
+                        ],
+                        [
+                            88.591,
+                            89.576,
+                            -21.15
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        1
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "14",
+                "name": "new_edge",
+                "points": "14A,14B",
+                "render_name": "GJing",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        0.8,
+                        0.25
+                    ],
+                    "coordinates": [
+                        [
+                            51.557,
+                            91.686,
+                            -15.95
+                        ],
+                        [
+                            51.557,
+                            91.686,
+                            -21.15
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        1
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "15",
+                "name": "new_edge",
+                "points": "15A,15B",
+                "render_name": "GJing",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        0.8,
+                        0.25
+                    ],
+                    "coordinates": [
+                        [
+                            24.533,
+                            97.777,
+                            -15.95
+                        ],
+                        [
+                            24.533,
+                            97.777,
+                            -21.15
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        1
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "16",
+                "name": "new_edge",
+                "points": "16A,16B",
+                "render_name": "GJing",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        0.8,
+                        0.25
+                    ],
+                    "coordinates": [
+                        [
+                            73,
+                            106.914,
+                            -15.95
+                        ],
+                        [
+                            73,
+                            106.914,
+                            -21.15
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        1
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "17",
+                "name": "new_edge",
+                "points": "17A,17B",
+                "render_name": "GJing",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        0.8,
+                        0.25
+                    ],
+                    "coordinates": [
+                        [
+                            56.444,
+                            115.166,
+                            -15.95
+                        ],
+                        [
+                            56.444,
+                            115.166,
+                            -21.15
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        1
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "18",
+                "name": "new_edge",
+                "points": "18A,18B",
+                "render_name": "GJing",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        0.8,
+                        0.25
+                    ],
+                    "coordinates": [
+                        [
+                            31.047,
+                            120.222,
+                            -15.95
+                        ],
+                        [
+                            31.047,
+                            120.222,
+                            -21.15
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        1
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "6",
+                "name": "new_edge",
+                "points": "6A,6B",
+                "render_name": "GJing",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        0.8,
+                        0.25
+                    ],
+                    "coordinates": [
+                        [
+                            18.484,
+                            56.173,
+                            -15.95
+                        ],
+                        [
+                            18.484,
+                            56.173,
+                            -21.15
+                        ]
+                    ]
+                }
+            }
+        }
+    ]
+}

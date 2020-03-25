@@ -1,0 +1,107 @@
+{
+    "type": "FeatureCollection",
+    "name": "terrain",
+    "file_type": "terrain",
+    "terrain_type": "contour",
+    "data_type": "terrain_data",
+    "time_stamp": 1551605063,
+    "properties_map": {
+        "elevation": "elevation"
+    },
+    "bottom_height": -66,
+    "length_grid_size": 10,
+    "width_grid_size": 10,
+    "height_grid_size": 10,
+    "color": [
+        117,
+        152,
+        176,
+        0
+    ],
+    "global_color": true,
+    "shapes_file_path": [
+        "C:/Users/linan/Desktop/tree_b\\terrain.json.brep"
+    ],
+    "shapes_file_path_relative": [
+        "terrain.json.brep"
+    ],
+    "shapes_file_type": "brep",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:0"
+                    }
+                },
+                "coordinates": [
+                    [
+                        -68.376,
+                        -42.099
+                    ],
+                    [
+                        173.439,
+                        -42.099
+                    ],
+                    [
+                        173.439,
+                        189.902
+                    ],
+                    [
+                        -68.375,
+                        189.901
+                    ],
+                    [
+                        -68.376,
+                        -42.099
+                    ]
+                ]
+            },
+            "properties": {
+                "elevation": 3.9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:0"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            -68.376,
+                            -42.099
+                        ],
+                        [
+                            173.439,
+                            -42.099
+                        ],
+                        [
+                            173.439,
+                            189.902
+                        ],
+                        [
+                            -68.375,
+                            189.901
+                        ],
+                        [
+                            -68.376,
+                            -42.099
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "elevation": 3.9
+            }
+        }
+    ]
+}

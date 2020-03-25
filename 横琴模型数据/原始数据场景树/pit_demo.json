@@ -1,0 +1,204 @@
+{
+    "type": "FeatureCollection",
+    "name": "pit_demo",
+    "file_type": "pit",
+    "data_type": "pit_final_data",
+    "time_stamp": 1551605063,
+    "color": [
+        117,
+        152,
+        176,
+        0
+    ],
+    "global_color": false,
+    "shapes_file_path": [
+        "C:/Users/linan/Desktop/HQ_prj/原始数据/坑体土方\\pit_demo.json.brep",
+        "C:/Users/linan/Desktop/HQ_prj/原始数据场景树\\pit_demo.json.brep"
+    ],
+    "shapes_file_path_relative": [
+        "pit_demo.json.brep"
+    ],
+    "shapes_file_type": "brep",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:0"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            3.083,
+                            11.956
+                        ],
+                        [
+                            70.582,
+                            0.847
+                        ],
+                        [
+                            81.059,
+                            8.438
+                        ],
+                        [
+                            97.798,
+                            110.083
+                        ],
+                        [
+                            90.291,
+                            120.634
+                        ],
+                        [
+                            22.799,
+                            131.744
+                        ],
+                        [
+                            3.083,
+                            11.956
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "pit",
+                "elevation": 3.9,
+                "depth_list": "[20.05]",
+                "angle_list": "[0]",
+                "color": "[117,0,176,0]"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:0"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            40.412,
+                            24.061
+                        ],
+                        [
+                            56.507,
+                            30.128
+                        ],
+                        [
+                            44.952,
+                            60.784
+                        ],
+                        [
+                            28.857,
+                            54.717
+                        ],
+                        [
+                            40.412,
+                            24.061
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "pit1",
+                "elevation": -16.15,
+                "depth_list": "[5.35]",
+                "angle_list": "[0]",
+                "color": "[117,0,176,0]"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:0"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            32.631,
+                            102.945
+                        ],
+                        [
+                            43.665,
+                            99.983
+                        ],
+                        [
+                            46.389,
+                            108.014
+                        ],
+                        [
+                            34.883,
+                            111.161
+                        ],
+                        [
+                            32.631,
+                            102.945
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "pit2-1",
+                "elevation": -16.15,
+                "depth_list": "[4.6]",
+                "angle_list": "[0]",
+                "color": "[117,0,176,0]"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:0"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            61.386,
+                            88.321
+                        ],
+                        [
+                            68.452,
+                            79.412
+                        ],
+                        [
+                            81.666,
+                            90.689
+                        ],
+                        [
+                            74.754,
+                            99.942
+                        ],
+                        [
+                            61.386,
+                            88.321
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "pit2-2",
+                "elevation": -16.15,
+                "depth_list": "[4.6]",
+                "angle_list": "[0]",
+                "color": "[117,0,176,0]"
+            }
+        }
+    ]
+}

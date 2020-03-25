@@ -1,0 +1,64 @@
+{
+    "type": "FeatureCollection",
+    "name": "pit_1",
+    "file_type": "pit",
+    "data_type": "pit_final_data",
+    "time_stamp": 1551605063,
+    "color": [
+        117,
+        152,
+        176,
+        0
+    ],
+    "global_color": false,
+    "shapes_file_path": [],
+    "shapes_file_path_relative": [
+        "pit_1.json.brep"
+    ],
+    "shapes_file_type": "brep",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:0"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            22.799,
+                            131.744
+                        ],
+                        [
+                            60.851,
+                            126.189
+                        ],
+                        [
+                            54.28,
+                            84.407
+                        ],
+                        [
+                            16.227,
+                            91.815
+                        ],
+                        [
+                            22.799,
+                            131.744
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "pit",
+                "elevation": -10.4,
+                "depth_list": "[3.8]",
+                "angle_list": "[0]",
+                "color": "[117,0,176,0]"
+            }
+        }
+    ]
+}

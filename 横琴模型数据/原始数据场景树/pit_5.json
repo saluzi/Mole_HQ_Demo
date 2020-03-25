@@ -1,0 +1,67 @@
+{
+    "type": "FeatureCollection",
+    "name": "pit_5",
+    "file_type": "pit",
+    "data_type": "pit_final_data",
+    "time_stamp": 1551605063,
+    "color": [
+        117,
+        152,
+        176,
+        0
+    ],
+    "global_color": false,
+    "shapes_file_path": [
+        "C:/Users/linan/Desktop/HQ_prj/原始数据/坑体土方\\pit_5.json.brep",
+        "C:/Users/linan/Desktop/HQ_prj/原始数据场景树\\pit_5.json.brep"
+    ],
+    "shapes_file_path_relative": [
+        "pit_5.json.brep"
+    ],
+    "shapes_file_type": "brep",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:0"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            47.66,
+                            44.94
+                        ],
+                        [
+                            41.272,
+                            6.4015
+                        ],
+                        [
+                            3.083,
+                            11.956
+                        ],
+                        [
+                            9.655,
+                            51.885
+                        ],
+                        [
+                            47.66,
+                            46
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "pit",
+                "elevation": -10.4,
+                "depth_list": "[3.8]",
+                "angle_list": "[0]",
+                "color": "[117,0,176,0]"
+            }
+        }
+    ]
+}
