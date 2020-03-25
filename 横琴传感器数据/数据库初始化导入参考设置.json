@@ -1,5 +1,5 @@
 {
     "db_sql_path": "D:\\workspaces\\git_workspaces\\mole\\mcl\\plugins\\sensors_db\\sensors_db.sql",
     "db_file_path": "D:\\workspaces\\git_workspaces\\mole\\mcl\\plugins\\sensors_db\\sensors_db_HQ.db",
-    "db_def_file_path": "C:\\Users\\linan\\Desktop\\senser_HQ\\sensors_db_init_HQ.xlsx"
+    "db_def_file_path": "D:\\workspaces\\git_workspaces\\Mole_HQ_Demo\\横琴传感器数据\\sensors_db_init_HQ.xlsx"
 }

@@ -69,6 +69,36 @@
           "SD":5,
 		  "BQWY":4
       }
+    },
+    "ZBDLSPWY": {
+      "sheet_index": 0,
+      "row_start_index": 1,
+      "row_head_index": 0,
+	  "sensor_number_col":2,
+      "time_col":3,
+      "properties_col_map": {
+          "SPWY":4
+      }
+    },
+    "ZBDLCJWY": {
+      "sheet_index": 0,
+      "row_start_index": 1,
+      "row_head_index": 0,
+	  "sensor_number_col":2,
+      "time_col":3,
+      "properties_col_map": {
+          "CJWY":4
+      }
+    },
+    "HNTZCZLJC": {
+      "sheet_index": 0,
+      "row_start_index": 1,
+      "row_head_index": 0,
+	  "sensor_number_col":2,
+      "time_col":3,
+      "properties_col_map": {
+          "ZCZL":4
+      }
     }
   },
   "sensor_id_binding":[
