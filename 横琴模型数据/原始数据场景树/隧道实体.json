@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "name": "JXHNTGL",
+    "name": "隧道实体",
     "file_type": "mesh",
     "data_type": "mesh_data",
     "color": [
@@ -10,7 +10,7 @@
         0
     ],
     "global_color": true,
-    "time_stamp": 1563157833,
+    "time_stamp": 1585145724,
     "properties": {
         "rotate": [
             0,
@@ -52,13 +52,12 @@
         "transform": true
     },
     "shapes_file_path": [
-        "C:/Users/linan/Desktop/tree_b\\JXHNTGL_11.json.brep",
-        "C:/Users/linan/Desktop/HQ_prj/原始数据/支护结构场景树\\JXHNTGL_11.json.brep",
-        "C:/Users/linan/Desktop/HQ_prj/原始数据场景树\\JXHNTGL_11.json.brep",
-        "D:/workspaces/git_workspaces/Mole_HQ_Demo/横琴模型数据/原始数据场景树\\JXHNTGL_11.json.brep"
+        "C:/Users/linan/Desktop\\SD.json.brep",
+        "C:/Users/linan/Desktop\\SD.json.brep",
+        "D:/workspaces/git_workspaces/Mole_HQ_Demo/横琴模型数据/原始数据/隧道\\SD.json.brep"
     ],
     "shapes_file_path_relative": [
-        "JXHNTGL_11.json.brep"
+        "SD.json.brep"
     ],
     "shapes_file_type": "brep",
     "features": [
@@ -67,58 +66,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    23.36,
-                    131.043,
-                    -9.8
+                    -122.5,
+                    7.5,
+                    -21.1
                 ]
             },
             "properties": {
-                "id": "G1",
-                "name": "new_point",
-                "render_name": "sphere",
-                "parameters": {
-                    "axis": {
-                        "x": [
-                            1,
-                            0,
-                            0
-                        ],
-                        "y": [
-                            0,
-                            1,
-                            0
-                        ]
-                    },
-                    "color": [
-                        117,
-                        152,
-                        176,
-                        0
-                    ],
-                    "LOD": 0,
-                    "args": [
-                        1.0
-                    ],
-                    "coordinate": [
-                        23.36,
-                        131.043,
-                        -9.8
-                    ]
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    16.227,
-                    91.815,
-                    -9.8
-                ]
-            },
-            "properties": {
-                "id": "G2",
+                "id": "0",
                 "name": "new_point",
                 "render_name": "sphere",
                 "parameters": {
@@ -145,9 +99,9 @@
                         1
                     ],
                     "coordinate": [
-                        16.227,
-                        91.815,
-                        -9.8
+                        -122.5,
+                        7.5,
+                        -21.1
                     ]
                 }
             }
@@ -157,13 +111,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    60.851,
-                    126.189,
-                    -9.8
+                    -64.5,
+                    -1.7,
+                    -21.1
                 ]
             },
             "properties": {
-                "id": "G6",
+                "id": "1",
                 "name": "new_point",
                 "render_name": "sphere",
                 "parameters": {
@@ -190,9 +144,99 @@
                         1
                     ],
                     "coordinate": [
-                        60.851,
-                        126.189,
-                        -9.8
+                        -64.5,
+                        -1.7,
+                        -21.1
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.5,
+                    -31,
+                    -21.1
+                ]
+            },
+            "properties": {
+                "id": "2",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1
+                    ],
+                    "coordinate": [
+                        89.5,
+                        -31,
+                        -21.1
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    157.5,
+                    -64.5,
+                    -21.1
+                ]
+            },
+            "properties": {
+                "id": "3",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1
+                    ],
+                    "coordinate": [
+                        157.5,
+                        -64.5,
+                        -21.1
                     ]
                 }
             }
@@ -210,15 +254,15 @@
                     [
                         0,
                         0,
-                        1
+                        10
                     ]
                 ]
             },
             "properties": {
-                "id": "12",
+                "id": "1",
                 "name": "new_edge",
-                "points": "G1,G2",
-                "render_name": "JXHNTGL",
+                "points": "0,1",
+                "render_name": "SD",
                 "parameters": {
                     "axis": {
                         "x": [
@@ -227,75 +271,26 @@
                             0
                         ]
                     },
-                    "color": [
-                        117,
-                        152,
-                        176,
-                        0
-                    ],
                     "LOD": 0,
                     "args": [
-                        [
-                            1.4,
-                            1.2
-                        ],
-                        [
-                            {
-                                "zjqsy": 0,
-                                "zjfw": [
-                                    0.65,
-                                    -0.55,
-                                    0.65,
-                                    0.55
-                                ],
-                                "zjpr": [
-                                    0.032,
-                                    10,
-                                    9
-                                ]
-                            },
-                            {
-                                "zjqsy": 0,
-                                "zjfw": [
-                                    -0.65,
-                                    -0.55,
-                                    -0.65,
-                                    0.55
-                                ],
-                                "zjpr": [
-                                    0.032,
-                                    10,
-                                    9
-                                ]
-                            }
-                        ],
-                        [
-                            {
-                                "gjqsy": 0.1,
-                                "gjfw": [
-                                    -0.65,
-                                    -0.55,
-                                    0.65,
-                                    0.55
-                                ],
-                                "gjpr": [
-                                    0.012,
-                                    0.4,
-                                    0
-                                ]
-                            }
-                        ]
+                        9
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "截面直径"
                     ],
                     "coordinates": [
                         [
-                            23.36,
-                            131.043,
-                            -9.8
+                            -122.5,
+                            7.5,
+                            -21.1
                         ],
                         [
-                            16.227,
-                            91.815,
-                            -9.8
+                            -64.5,
+                            -1.7,
+                            -21.1
                         ]
                     ]
                 }
@@ -314,15 +309,70 @@
                     [
                         0,
                         0,
-                        1
+                        10
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "2",
+                "name": "new_edge",
+                "points": "2,1",
+                "render_name": "SD",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        9
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "截面直径"
+                    ],
+                    "coordinates": [
+                        [
+                            89.5,
+                            -31,
+                            -21.1
+                        ],
+                        [
+                            -64.5,
+                            -1.7,
+                            -21.1
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        10
                     ]
                 ]
             },
             "properties": {
                 "id": "0",
                 "name": "new_edge",
-                "points": "G1,G6",
-                "render_name": "JXHNTGL",
+                "points": "2,3",
+                "render_name": "SD",
                 "parameters": {
                     "axis": {
                         "x": [
@@ -331,75 +381,26 @@
                             0
                         ]
                     },
-                    "color": [
-                        117,
-                        152,
-                        176,
-                        0
-                    ],
                     "LOD": 0,
                     "args": [
-                        [
-                            1.4,
-                            1.2
-                        ],
-                        [
-                            {
-                                "zjqsy": 0,
-                                "zjfw": [
-                                    0.65,
-                                    -0.55,
-                                    0.65,
-                                    0.55
-                                ],
-                                "zjpr": [
-                                    0.032,
-                                    10,
-                                    9
-                                ]
-                            },
-                            {
-                                "zjqsy": 0,
-                                "zjfw": [
-                                    -0.65,
-                                    -0.55,
-                                    -0.65,
-                                    0.55
-                                ],
-                                "zjpr": [
-                                    0.032,
-                                    10,
-                                    9
-                                ]
-                            }
-                        ],
-                        [
-                            {
-                                "gjqsy": 0.1,
-                                "gjfw": [
-                                    -0.65,
-                                    -0.55,
-                                    0.65,
-                                    0.55
-                                ],
-                                "gjpr": [
-                                    0.012,
-                                    0.4,
-                                    0
-                                ]
-                            }
-                        ]
+                        9
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "截面直径"
                     ],
                     "coordinates": [
                         [
-                            23.36,
-                            131.043,
-                            -9.8
+                            89.5,
+                            -31,
+                            -21.1
                         ],
                         [
-                            60.851,
-                            126.189,
-                            -9.8
+                            157.5,
+                            -64.5,
+                            -21.1
                         ]
                     ]
                 }

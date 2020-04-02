@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "name": "隧道1",
+    "name": "隧道",
     "file_type": "mesh",
     "data_type": "mesh_data",
     "color": [
@@ -52,11 +52,12 @@
         "transform": true
     },
     "shapes_file_path": [
-        "C:/Users/linan/Desktop/HQ_prj/原始数据/隧道\\SD.json.brep",
-        "C:/Users/linan/Desktop/HQ_prj/原始数据/隧道\\SD.json.brep"
+        "C:/Users/linan/Desktop\\SD_bi.json.brep",
+        "C:/Users/linan/Desktop\\SD_bi.json.brep",
+        "D:/workspaces/git_workspaces/Mole_HQ_Demo/横琴模型数据/原始数据/隧道\\SD_bi.json.brep"
     ],
     "shapes_file_path_relative": [
-        "SD.json.brep"
+        "SD_bi.json.brep"
     ],
     "shapes_file_type": "brep",
     "features": [
@@ -67,7 +68,7 @@
                 "coordinates": [
                     -122.5,
                     7.5,
-                    -32
+                    -21.1
                 ]
             },
             "properties": {
@@ -100,7 +101,7 @@
                     "coordinate": [
                         -122.5,
                         7.5,
-                        -32
+                        -21.1
                     ]
                 }
             }
@@ -112,7 +113,7 @@
                 "coordinates": [
                     -64.5,
                     -1.7,
-                    -32
+                    -21.1
                 ]
             },
             "properties": {
@@ -145,7 +146,7 @@
                     "coordinate": [
                         -64.5,
                         -1.7,
-                        -32
+                        -21.1
                     ]
                 }
             }
@@ -157,7 +158,7 @@
                 "coordinates": [
                     89.5,
                     -31,
-                    -32
+                    -21.1
                 ]
             },
             "properties": {
@@ -185,12 +186,12 @@
                     ],
                     "LOD": 0,
                     "args": [
-                        1.0
+                        1
                     ],
                     "coordinate": [
                         89.5,
                         -31,
-                        -32
+                        -21.1
                     ]
                 }
             }
@@ -202,7 +203,7 @@
                 "coordinates": [
                     157.5,
                     -64.5,
-                    -32
+                    -21.1
                 ]
             },
             "properties": {
@@ -235,7 +236,81 @@
                     "coordinate": [
                         157.5,
                         -64.5,
-                        -32
+                        -21.1
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        10
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "0",
+                "name": "new_edge",
+                "points": "0,1",
+                "render_name": "GGZC",
+                "render_props": {
+                    "钢管支撑的名称": "",
+                    "钢管支撑的编号": "",
+                    "支护结构设计剖面号": "",
+                    "是否参与计算": false,
+                    "是否可视": false,
+                    "钢管支撑起始中心点坐标": "",
+                    "钢管支撑终止中心点坐标": "",
+                    "钢管支撑长度": "",
+                    "钢管支撑厚度": "",
+                    "钢管支撑直径": "",
+                    "钢材型号": "",
+                    "钢管颜色": "",
+                    "钢管透明度": "",
+                    "render_name": "GGZC"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        4.5,
+                        0.5
+                    ],
+                    "type": [
+                        "float",
+                        "float"
+                    ],
+                    "des": [
+                        "钢支撑直径",
+                        "钢支撑壁厚"
+                    ],
+                    "coordinates": [
+                        [
+                            -122.5,
+                            7.5,
+                            -21.1
+                        ],
+                        [
+                            -64.5,
+                            -1.7,
+                            -21.1
+                        ]
                     ]
                 }
             }
@@ -260,8 +335,24 @@
             "properties": {
                 "id": "1",
                 "name": "new_edge",
-                "points": "0,1",
-                "render_name": "SD",
+                "points": "2,1",
+                "render_name": "GGZC",
+                "render_props": {
+                    "钢管支撑的名称": "",
+                    "钢管支撑的编号": "",
+                    "支护结构设计剖面号": "",
+                    "是否参与计算": false,
+                    "是否可视": false,
+                    "钢管支撑起始中心点坐标": "",
+                    "钢管支撑终止中心点坐标": "",
+                    "钢管支撑长度": "",
+                    "钢管支撑厚度": "",
+                    "钢管支撑直径": "",
+                    "钢材型号": "",
+                    "钢管颜色": "",
+                    "钢管透明度": "",
+                    "render_name": "GGZC"
+                },
                 "parameters": {
                     "axis": {
                         "x": [
@@ -272,24 +363,27 @@
                     },
                     "LOD": 0,
                     "args": [
-                        44
+                        4.5,
+                        0.5
                     ],
                     "type": [
+                        "float",
                         "float"
                     ],
                     "des": [
-                        "截面直径"
+                        "钢支撑直径",
+                        "钢支撑壁厚"
                     ],
                     "coordinates": [
                         [
-                            -122.5,
-                            7.5,
-                            -32
+                            89.5,
+                            -31,
+                            -21.1
                         ],
                         [
                             -64.5,
                             -1.7,
-                            -32
+                            -21.1
                         ]
                     ]
                 }
@@ -315,63 +409,24 @@
             "properties": {
                 "id": "2",
                 "name": "new_edge",
-                "points": "2,1",
-                "render_name": "SD",
-                "parameters": {
-                    "axis": {
-                        "x": [
-                            1,
-                            0,
-                            0
-                        ]
-                    },
-                    "LOD": 0,
-                    "args": [
-                        44
-                    ],
-                    "type": [
-                        "float"
-                    ],
-                    "des": [
-                        "截面直径"
-                    ],
-                    "coordinates": [
-                        [
-                            89.5,
-                            -31,
-                            -32
-                        ],
-                        [
-                            -64.5,
-                            -1.7,
-                            -32
-                        ]
-                    ]
-                }
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        0,
-                        0,
-                        0
-                    ],
-                    [
-                        0,
-                        0,
-                        10
-                    ]
-                ]
-            },
-            "properties": {
-                "id": "0",
-                "name": "new_edge",
                 "points": "2,3",
-                "render_name": "SD",
+                "render_name": "GGZC",
+                "render_props": {
+                    "钢管支撑的名称": "",
+                    "钢管支撑的编号": "",
+                    "支护结构设计剖面号": "",
+                    "是否参与计算": false,
+                    "是否可视": false,
+                    "钢管支撑起始中心点坐标": "",
+                    "钢管支撑终止中心点坐标": "",
+                    "钢管支撑长度": "",
+                    "钢管支撑厚度": "",
+                    "钢管支撑直径": "",
+                    "钢材型号": "",
+                    "钢管颜色": "",
+                    "钢管透明度": "",
+                    "render_name": "GGZC"
+                },
                 "parameters": {
                     "axis": {
                         "x": [
@@ -382,24 +437,27 @@
                     },
                     "LOD": 0,
                     "args": [
-                        44
+                        4.5,
+                        0.5
                     ],
                     "type": [
+                        "float",
                         "float"
                     ],
                     "des": [
-                        "截面直径"
+                        "钢支撑直径",
+                        "钢支撑壁厚"
                     ],
                     "coordinates": [
                         [
                             89.5,
                             -31,
-                            -32
+                            -21.1
                         ],
                         [
                             157.5,
                             -64.5,
-                            -32
+                            -21.1
                         ]
                     ]
                 }

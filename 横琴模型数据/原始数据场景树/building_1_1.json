@@ -17,8 +17,7 @@
     ],
     "global_color": false,
     "shapes_file_path": [
-        "C:/Users/linan/Desktop/HQ_prj/原始数据/附属建筑\\building_1_1.json.brep",
-        "C:/Users/linan/Desktop/HQ_prj/原始数据场景树\\building_1_1.json.brep"
+        "D:/workspaces/git_workspaces/Mole_HQ_Demo/横琴模型数据/原始数据/附属建筑\\building_1_1.json.brep"
     ],
     "shapes_file_path_relative": [
         "building_1_1.json.brep"

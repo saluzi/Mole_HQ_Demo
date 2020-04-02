@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "name": "building_1_2",
+    "name": "建筑3b",
     "file_type": "building",
     "data_type": "building_data",
     "time_stamp": 1551605063,
@@ -17,10 +17,12 @@
     ],
     "global_color": false,
     "shapes_file_path": [
-        "D:/workspaces/git_workspaces/Mole_HQ_Demo/横琴模型数据/原始数据/附属建筑\\building_1_2.json.brep"
+        "C:/Users/linan/Desktop\\building_new_1.json.brep",
+        "C:/Users/linan/Desktop\\building_new_1.json.brep",
+        "D:/workspaces/git_workspaces/Mole_HQ_Demo/横琴模型数据/原始数据/附属建筑\\building_new_1.json.brep"
     ],
     "shapes_file_path_relative": [
-        "building_1_2.json.brep"
+        "building_new_1.json.brep"
     ],
     "shapes_file_type": "brep",
     "features": [
@@ -37,36 +39,32 @@
                 "coordinates": [
                     [
                         [
-                            -25.606,
-                            24.959
+                            169.2,
+                            49.3
                         ],
                         [
-                            -40.222,
-                            27.365
+                            124.77,
+                            56.6
                         ],
                         [
-                            -51.194,
-                            29.994
+                            134,
+                            100.166
                         ],
                         [
-                            -49.515,
-                            70.571
+                            146.118,
+                            100.145
                         ],
                         [
-                            -33.543,
-                            67.942
-                        ],
-                        [
-                            -18.927,
-                            65.536
+                            169.2,
+                            49.3
                         ]
                     ]
                 ]
             },
             "properties": {
                 "name": "bnd2",
-                "elevation": 0,
-                "height": 50.0,
+                "elevation": -11.1,
+                "height": 35,
                 "color": "[0,152,176,0]"
             }
         }
