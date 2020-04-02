@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "name": "½¨Öþ3b",
+    "file_type": "building",
+    "data_type": "building_data",
+    "time_stamp": 1551605063,
+    "properties_map": {
+        "elevation": "elevation",
+        "height": "height",
+        "color": "color"
+    },
+    "color": [
+        117,
+        152,
+        176,
+        0
+    ],
+    "global_color": false,
+    "shapes_file_path": [
+        "C:/Users/linan/Desktop\\building_new_1.json.brep",
+        "C:/Users/linan/Desktop\\building_new_1.json.brep"
+    ],
+    "shapes_file_path_relative": [
+        "building_new_1.json.brep"
+    ],
+    "shapes_file_type": "brep",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "crs": {
+                    "type": "name",
+                    "properties": {
+                        "name": "EPSG:0"
+                    }
+                },
+                "coordinates": [
+                    [
+                        [
+                            169.2,
+                            49.3
+                        ],
+                        [
+                            124.77,
+                            56.6
+                        ],
+                        [
+                            134,
+                            100.166
+                        ],
+                        [
+                            146.118,
+                            100.145
+                        ],
+                        [
+                            169.2,
+                            49.3
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "bnd2",
+                "elevation": -11.1,
+                "height": 35,
+                "color": "[0,152,176,0]"
+            }
+        }
+    ]
+}

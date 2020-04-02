@@ -1,0 +1,409 @@
+{
+    "type": "FeatureCollection",
+    "name": "隧道实体",
+    "file_type": "mesh",
+    "data_type": "mesh_data",
+    "color": [
+        117,
+        152,
+        176,
+        0
+    ],
+    "global_color": true,
+    "time_stamp": 1585145724,
+    "properties": {
+        "rotate": [
+            0,
+            0,
+            0
+        ],
+        "translate": [
+            0,
+            0,
+            0
+        ],
+        "matrix": [
+            [
+                1,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                0,
+                0,
+                1
+            ]
+        ],
+        "use_matrix": true,
+        "transform": true
+    },
+    "shapes_file_path": [
+        "C:/Users/linan/Desktop\\SD.json.brep",
+        "C:/Users/linan/Desktop\\SD.json.brep"
+    ],
+    "shapes_file_path_relative": [
+        "SD.json.brep"
+    ],
+    "shapes_file_type": "brep",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5,
+                    7.5,
+                    -21.1
+                ]
+            },
+            "properties": {
+                "id": "0",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1
+                    ],
+                    "coordinate": [
+                        -122.5,
+                        7.5,
+                        -21.1
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.5,
+                    -1.7,
+                    -21.1
+                ]
+            },
+            "properties": {
+                "id": "1",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1
+                    ],
+                    "coordinate": [
+                        -64.5,
+                        -1.7,
+                        -21.1
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.5,
+                    -31,
+                    -21.1
+                ]
+            },
+            "properties": {
+                "id": "2",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1
+                    ],
+                    "coordinate": [
+                        89.5,
+                        -31,
+                        -21.1
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    157.5,
+                    -64.5,
+                    -21.1
+                ]
+            },
+            "properties": {
+                "id": "3",
+                "name": "new_point",
+                "render_name": "sphere",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ],
+                        "y": [
+                            0,
+                            1,
+                            0
+                        ]
+                    },
+                    "color": [
+                        117,
+                        152,
+                        176,
+                        0
+                    ],
+                    "LOD": 0,
+                    "args": [
+                        1
+                    ],
+                    "coordinate": [
+                        157.5,
+                        -64.5,
+                        -21.1
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        10
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "1",
+                "name": "new_edge",
+                "points": "0,1",
+                "render_name": "SD",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        9
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "截面直径"
+                    ],
+                    "coordinates": [
+                        [
+                            -122.5,
+                            7.5,
+                            -21.1
+                        ],
+                        [
+                            -64.5,
+                            -1.7,
+                            -21.1
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        10
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "2",
+                "name": "new_edge",
+                "points": "2,1",
+                "render_name": "SD",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        9
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "截面直径"
+                    ],
+                    "coordinates": [
+                        [
+                            89.5,
+                            -31,
+                            -21.1
+                        ],
+                        [
+                            -64.5,
+                            -1.7,
+                            -21.1
+                        ]
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        0,
+                        0,
+                        0
+                    ],
+                    [
+                        0,
+                        0,
+                        10
+                    ]
+                ]
+            },
+            "properties": {
+                "id": "0",
+                "name": "new_edge",
+                "points": "2,3",
+                "render_name": "SD",
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        9
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "截面直径"
+                    ],
+                    "coordinates": [
+                        [
+                            89.5,
+                            -31,
+                            -21.1
+                        ],
+                        [
+                            157.5,
+                            -64.5,
+                            -21.1
+                        ]
+                    ]
+                }
+            }
+        }
+    ]
+}
