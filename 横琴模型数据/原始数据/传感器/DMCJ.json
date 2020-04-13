@@ -1,0 +1,1469 @@
+{
+    "type": "FeatureCollection",
+    "name": "DMCJ",
+    "file_type": "mesh",
+    "data_type": "mesh_data",
+    "color": [
+        117,
+        152,
+        176,
+        0
+    ],
+    "global_color": true,
+    "time_stamp": 1585984433,
+    "properties": {
+        "rotate": [
+            0,
+            0,
+            0
+        ],
+        "translate": [
+            0,
+            0,
+            0
+        ],
+        "matrix": [
+            [
+                1,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                0,
+                0,
+                1
+            ]
+        ],
+        "use_matrix": true,
+        "transform": true
+    },
+    "shapes_file_path": [],
+    "shapes_file_path_relative": [
+        "DMCJ.json.brep"
+    ],
+    "shapes_file_type": "brep",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.54689,
+                    133.7067,
+                    3.3
+                ]
+            },
+            "properties": {
+                "id": "0",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        32.54689,
+                        133.7067,
+                        3.3
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.24024,
+                    129.80698,
+                    3.3
+                ]
+            },
+            "properties": {
+                "id": "1",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        56.24024,
+                        129.80698,
+                        3.3
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.858277,
+                    125.75504,
+                    3.3
+                ]
+            },
+            "properties": {
+                "id": "2",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        80.858277,
+                        125.75504,
+                        3.3
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.711188,
+                    154.11406,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "3",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        39.711188,
+                        154.11406,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.439126,
+                    150.80415,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "4",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        64.439126,
+                        150.80415,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.465541,
+                    147.94313,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "5",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        88.465541,
+                        147.94313,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.733369,
+                    122.17503,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "6",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        101.733369,
+                        122.17503,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.495324,
+                    111.08262,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "7",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        107.495324,
+                        111.08262,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.917365,
+                    90.14832,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "8",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        104.917365,
+                        90.14832,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.604518,
+                    75.77072,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "9",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        120.604518,
+                        75.77072,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.66628,
+                    70.38597,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "11",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        101.66628,
+                        70.38597,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.265014,
+                    45.47087,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "12",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        116.265014,
+                        45.47087,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.606674,
+                    52.57077,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "13",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        98.606674,
+                        52.57077,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    92.929082,
+                    34.06092,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "14",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        92.929082,
+                        34.06092,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.156973,
+                    18.75315,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "15",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        90.156973,
+                        18.75315,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.146962,
+                    16.71727,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "16",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        112.146962,
+                        16.71727,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.773001,
+                    0.37899,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "17",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        86.773001,
+                        0.37899,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.78964,
+                    -4.28312,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "18",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        107.78964,
+                        -4.28312,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.968467,
+                    -10.37248,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "19",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        69.968467,
+                        -10.37248,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.349018,
+                    -26.28739,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "20",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        67.349018,
+                        -26.28739,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.515218,
+                    -9.67753,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "21",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        52.515218,
+                        -9.67753,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.759594,
+                    -21.91023,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "22",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        43.759594,
+                        -21.91023,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.995275,
+                    -5.81315,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "23",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        33.995275,
+                        -5.81315,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.099492,
+                    -18.57621,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "24",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        19.099492,
+                        -18.57621,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.980109,
+                    -2.54654,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "25",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        12.980109,
+                        -2.54654,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.301166,
+                    0.26724,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "26",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        -7.301166,
+                        0.26724,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.595903,
+                    -14.25417,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "27",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        -8.595903,
+                        -14.25417,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.955979,
+                    24.62717,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "28",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        -2.955979,
+                        24.62717,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.506035,
+                    55.86353,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "29",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        0.506035,
+                        55.86353,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.189587,
+                    91.84709,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "30",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        6.189587,
+                        91.84709,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.920783,
+                    116.82967,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "31",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        9.920783,
+                        116.82967,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.395636,
+                    140.964,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "32",
+                "name": "new_point",
+                "render_name": "DMCJ",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "DMCJ"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        17.395636,
+                        140.964,
+                        3.9
+                    ]
+                }
+            }
+        }
+    ]
+}

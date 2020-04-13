@@ -1,0 +1,809 @@
+{
+    "type": "FeatureCollection",
+    "name": "LIZHU_SHUI_SHU",
+    "file_type": "mesh",
+    "data_type": "mesh_data",
+    "color": [
+        117,
+        152,
+        176,
+        0
+    ],
+    "global_color": true,
+    "time_stamp": 1586000852,
+    "properties": {
+        "rotate": [
+            0,
+            0,
+            0
+        ],
+        "translate": [
+            0,
+            0,
+            0
+        ],
+        "matrix": [
+            [
+                1,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                0,
+                0,
+                1
+            ]
+        ],
+        "use_matrix": true,
+        "transform": true
+    },
+    "shapes_file_path": [],
+    "shapes_file_path_relative": [
+        "LIZHU_SHUI_SHU.json.brep"
+    ],
+    "shapes_file_type": "brep",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.443232,
+                    118.30281,
+                    1.7
+                ]
+            },
+            "properties": {
+                "id": "0",
+                "name": "new_point",
+                "render_name": "LZ_shuiping_shuxiang",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "LZ_shuiping_shuxiang"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        32.443232,
+                        118.30281,
+                        1.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.945665,
+                    110.4214,
+                    1.7
+                ]
+            },
+            "properties": {
+                "id": "1",
+                "name": "new_point",
+                "render_name": "LZ_shuiping_shuxiang",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "LZ_shuiping_shuxiang"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        29.945665,
+                        110.4214,
+                        1.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.916814,
+                    115.06719,
+                    1.7
+                ]
+            },
+            "properties": {
+                "id": "2",
+                "name": "new_point",
+                "render_name": "LZ_shuiping_shuxiang",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "LZ_shuiping_shuxiang"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        44.916814,
+                        115.06719,
+                        1.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.746909,
+                    112.20423,
+                    1.7
+                ]
+            },
+            "properties": {
+                "id": "3",
+                "name": "new_point",
+                "render_name": "LZ_shuiping_shuxiang",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "LZ_shuiping_shuxiang"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        78.746909,
+                        112.20423,
+                        1.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.463807,
+                    109.92334,
+                    1.7
+                ]
+            },
+            "properties": {
+                "id": "4",
+                "name": "new_point",
+                "render_name": "LZ_shuiping_shuxiang",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "LZ_shuiping_shuxiang"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        86.463807,
+                        109.92334,
+                        1.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.07641,
+                    97.64593,
+                    1.7
+                ]
+            },
+            "properties": {
+                "id": "5",
+                "name": "new_point",
+                "render_name": "LZ_shuiping_shuxiang",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "LZ_shuiping_shuxiang"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        83.07641,
+                        97.64593,
+                        1.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.692301,
+                    75.76699,
+                    1.7
+                ]
+            },
+            "properties": {
+                "id": "6",
+                "name": "new_point",
+                "render_name": "LZ_shuiping_shuxiang",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "LZ_shuiping_shuxiang"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        71.692301,
+                        75.76699,
+                        1.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.886538,
+                    67.55701,
+                    1.7
+                ]
+            },
+            "properties": {
+                "id": "7",
+                "name": "new_point",
+                "render_name": "LZ_shuiping_shuxiang",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "LZ_shuiping_shuxiang"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        32.886538,
+                        67.55701,
+                        1.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.849972,
+                    63.77984,
+                    1.7
+                ]
+            },
+            "properties": {
+                "id": "8",
+                "name": "new_point",
+                "render_name": "LZ_shuiping_shuxiang",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "LZ_shuiping_shuxiang"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        55.849972,
+                        63.77984,
+                        1.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.531437,
+                    53.24993,
+                    1.7
+                ]
+            },
+            "properties": {
+                "id": "9",
+                "name": "new_point",
+                "render_name": "LZ_shuiping_shuxiang",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "LZ_shuiping_shuxiang"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        30.531437,
+                        53.24993,
+                        1.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.998305,
+                    47.24781,
+                    1.7
+                ]
+            },
+            "properties": {
+                "id": "10",
+                "name": "new_point",
+                "render_name": "LZ_shuiping_shuxiang",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "LZ_shuiping_shuxiang"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        66.998305,
+                        47.24781,
+                        1.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.701922,
+                    29.85255,
+                    1.7
+                ]
+            },
+            "properties": {
+                "id": "11",
+                "name": "new_point",
+                "render_name": "LZ_shuiping_shuxiang",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "LZ_shuiping_shuxiang"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        16.701922,
+                        29.85255,
+                        1.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.527744,
+                    21.60313,
+                    1.7
+                ]
+            },
+            "properties": {
+                "id": "12",
+                "name": "new_point",
+                "render_name": "LZ_shuiping_shuxiang",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "LZ_shuiping_shuxiang"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        16.527744,
+                        21.60313,
+                        1.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.380132,
+                    20.66961,
+                    1.7
+                ]
+            },
+            "properties": {
+                "id": "13",
+                "name": "new_point",
+                "render_name": "LZ_shuiping_shuxiang",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "LZ_shuiping_shuxiang"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        29.380132,
+                        20.66961,
+                        1.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.10777,
+                    24.94018,
+                    1.7
+                ]
+            },
+            "properties": {
+                "id": "14",
+                "name": "new_point",
+                "render_name": "LZ_shuiping_shuxiang",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "LZ_shuiping_shuxiang"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        71.10777,
+                        24.94018,
+                        1.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    62.342033,
+                    12.53803,
+                    1.7
+                ]
+            },
+            "properties": {
+                "id": "15",
+                "name": "new_point",
+                "render_name": "LZ_shuiping_shuxiang",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "LZ_shuiping_shuxiang"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        62.342033,
+                        12.53803,
+                        1.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.37765,
+                    12.23182,
+                    1.7
+                ]
+            },
+            "properties": {
+                "id": "16",
+                "name": "new_point",
+                "render_name": "LZ_shuiping_shuxiang",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "LZ_shuiping_shuxiang"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        70.37765,
+                        12.23182,
+                        1.7
+                    ]
+                }
+            }
+        }
+    ]
+}
