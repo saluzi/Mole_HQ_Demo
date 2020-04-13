@@ -1,0 +1,2613 @@
+{
+    "type": "FeatureCollection",
+    "name": "HNTZCNL",
+    "file_type": "mesh",
+    "data_type": "mesh_data",
+    "color": [
+        117,
+        152,
+        176,
+        0
+    ],
+    "global_color": true,
+    "time_stamp": 1586005824,
+    "properties": {
+        "rotate": [
+            0,
+            0,
+            0
+        ],
+        "translate": [
+            0,
+            0,
+            0
+        ],
+        "matrix": [
+            [
+                1,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                0,
+                0,
+                1
+            ]
+        ],
+        "use_matrix": true,
+        "transform": true
+    },
+    "shapes_file_path": [],
+    "shapes_file_path_relative": [
+        "HNTZCNL.json.brep"
+    ],
+    "shapes_file_type": "brep",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.69824,
+                    125.293987,
+                    2.3
+                ]
+            },
+            "properties": {
+                "id": "0",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        33.69824,
+                        125.293987,
+                        2.3
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.710158,
+                    123.16168,
+                    2.3
+                ]
+            },
+            "properties": {
+                "id": "1",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        47.710158,
+                        123.16168,
+                        2.3
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.944758,
+                    120.187276,
+                    2.3
+                ]
+            },
+            "properties": {
+                "id": "2",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        66.944758,
+                        120.187276,
+                        2.3
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.140144,
+                    117.373915,
+                    2.3
+                ]
+            },
+            "properties": {
+                "id": "3",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        81.140144,
+                        117.373915,
+                        2.3
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.55955,
+                    7.513107,
+                    2.3
+                ]
+            },
+            "properties": {
+                "id": "4",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        75.55955,
+                        7.513107,
+                        2.3
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.086207,
+                    96.350527,
+                    2.3
+                ]
+            },
+            "properties": {
+                "id": "5",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        90.086207,
+                        96.350527,
+                        2.3
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.241517,
+                    60.918886,
+                    2.3
+                ]
+            },
+            "properties": {
+                "id": "6",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        73.241517,
+                        60.918886,
+                        2.3
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.006452,
+                    46.408664,
+                    2.3
+                ]
+            },
+            "properties": {
+                "id": "7",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        72.006452,
+                        46.408664,
+                        2.3
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.195411,
+                    30.755214,
+                    2.3
+                ]
+            },
+            "properties": {
+                "id": "8",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        79.195411,
+                        30.755214,
+                        2.3
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.299312,
+                    17.207544,
+                    2.3
+                ]
+            },
+            "properties": {
+                "id": "9",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        77.299312,
+                        17.207544,
+                        2.3
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.448962,
+                    8.299156,
+                    2.3
+                ]
+            },
+            "properties": {
+                "id": "10",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        56.448962,
+                        8.299156,
+                        2.3
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.377867,
+                    10.913798,
+                    2.3
+                ]
+            },
+            "properties": {
+                "id": "11",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        36.377867,
+                        10.913798,
+                        2.3
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.789598,
+                    12.873242,
+                    2.3
+                ]
+            },
+            "properties": {
+                "id": "12",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        22.789598,
+                        12.873242,
+                        2.3
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.622222,
+                    21.344007,
+                    2.3
+                ]
+            },
+            "properties": {
+                "id": "13",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        10.622222,
+                        21.344007,
+                        2.3
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.691158,
+                    34.04997,
+                    2.3
+                ]
+            },
+            "properties": {
+                "id": "14",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        13.691158,
+                        34.04997,
+                        2.3
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.168371,
+                    97.300231,
+                    2.3
+                ]
+            },
+            "properties": {
+                "id": "15",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        20.168371,
+                        97.300231,
+                        2.3
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.516454,
+                    111.9004,
+                    2.3
+                ]
+            },
+            "properties": {
+                "id": "16",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        23.516454,
+                        111.9004,
+                        2.3
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.69824,
+                    125.293987,
+                    -3.7
+                ]
+            },
+            "properties": {
+                "id": "17",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        33.69824,
+                        125.293987,
+                        -3.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.710158,
+                    123.16168,
+                    -3.7
+                ]
+            },
+            "properties": {
+                "id": "18",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        47.710158,
+                        123.16168,
+                        -3.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.710158,
+                    123.16168,
+                    -3.7
+                ]
+            },
+            "properties": {
+                "id": "19",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        47.710158,
+                        123.16168,
+                        -3.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.944758,
+                    120.187276,
+                    -3.7
+                ]
+            },
+            "properties": {
+                "id": "20",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        66.944758,
+                        120.187276,
+                        -3.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.140144,
+                    117.373915,
+                    -3.7
+                ]
+            },
+            "properties": {
+                "id": "21",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        81.140144,
+                        117.373915,
+                        -3.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.086207,
+                    96.350527,
+                    -3.7
+                ]
+            },
+            "properties": {
+                "id": "22",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        90.086207,
+                        96.350527,
+                        -3.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.55955,
+                    7.513107,
+                    -3.7
+                ]
+            },
+            "properties": {
+                "id": "23",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        75.55955,
+                        7.513107,
+                        -3.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.006452,
+                    46.408663,
+                    -3.7
+                ]
+            },
+            "properties": {
+                "id": "24",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        72.006452,
+                        46.408663,
+                        -3.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.195411,
+                    30.755214,
+                    -3.7
+                ]
+            },
+            "properties": {
+                "id": "25",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        79.195411,
+                        30.755214,
+                        -3.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.299312,
+                    17.207544,
+                    -3.7
+                ]
+            },
+            "properties": {
+                "id": "26",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        77.299312,
+                        17.207544,
+                        -3.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.448962,
+                    8.299156,
+                    -3.7
+                ]
+            },
+            "properties": {
+                "id": "27",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        56.448962,
+                        8.299156,
+                        -3.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.377867,
+                    10.913798,
+                    -3.7
+                ]
+            },
+            "properties": {
+                "id": "28",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        36.377867,
+                        10.913798,
+                        -3.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.789598,
+                    12.873242,
+                    -3.7
+                ]
+            },
+            "properties": {
+                "id": "29",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        22.789598,
+                        12.873242,
+                        -3.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.622222,
+                    21.344007,
+                    -3.7
+                ]
+            },
+            "properties": {
+                "id": "30",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        10.622222,
+                        21.344007,
+                        -3.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.691158,
+                    34.04997,
+                    -3.7
+                ]
+            },
+            "properties": {
+                "id": "31",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        13.691158,
+                        34.04997,
+                        -3.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.168371,
+                    97.300231,
+                    -3.7
+                ]
+            },
+            "properties": {
+                "id": "32",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        20.168371,
+                        97.300231,
+                        -3.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.516454,
+                    111.9004,
+                    -3.7
+                ]
+            },
+            "properties": {
+                "id": "33",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        23.516454,
+                        111.9004,
+                        -3.7
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.69824,
+                    125.293987,
+                    -9.2
+                ]
+            },
+            "properties": {
+                "id": "34",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        33.69824,
+                        125.293987,
+                        -9.2
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.710158,
+                    123.16168,
+                    -9.2
+                ]
+            },
+            "properties": {
+                "id": "35",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        47.710158,
+                        123.16168,
+                        -9.2
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.944758,
+                    120.187276,
+                    -9.2
+                ]
+            },
+            "properties": {
+                "id": "36",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        66.944758,
+                        120.187276,
+                        -9.2
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.140144,
+                    117.373915,
+                    -9.2
+                ]
+            },
+            "properties": {
+                "id": "37",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        81.140144,
+                        117.373915,
+                        -9.2
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.086207,
+                    96.350527,
+                    -9.2
+                ]
+            },
+            "properties": {
+                "id": "38",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        90.086207,
+                        96.350527,
+                        -9.2
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.55955,
+                    75.131067,
+                    -9.2
+                ]
+            },
+            "properties": {
+                "id": "39",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        75.55955,
+                        75.131067,
+                        -9.2
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.241517,
+                    60.918886,
+                    -9.2
+                ]
+            },
+            "properties": {
+                "id": "40",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        73.241517,
+                        60.918886,
+                        -9.2
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.006452,
+                    46.408664,
+                    -9.2
+                ]
+            },
+            "properties": {
+                "id": "41",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        72.006452,
+                        46.408664,
+                        -9.2
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.195411,
+                    30.755214,
+                    -9.2
+                ]
+            },
+            "properties": {
+                "id": "42",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        79.195411,
+                        30.755214,
+                        -9.2
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.299312,
+                    17.207544,
+                    -9.2
+                ]
+            },
+            "properties": {
+                "id": "43",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        77.299312,
+                        17.207544,
+                        -9.2
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.448962,
+                    8.299156,
+                    -9.2
+                ]
+            },
+            "properties": {
+                "id": "44",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        56.448962,
+                        8.299156,
+                        -9.2
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.377867,
+                    10.913798,
+                    -9.2
+                ]
+            },
+            "properties": {
+                "id": "45",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        36.377867,
+                        10.913798,
+                        -9.2
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.789598,
+                    12.873242,
+                    -9.2
+                ]
+            },
+            "properties": {
+                "id": "46",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        22.789598,
+                        12.873242,
+                        -9.2
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.622222,
+                    21.344007,
+                    -9.2
+                ]
+            },
+            "properties": {
+                "id": "47",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        10.622222,
+                        21.344007,
+                        -9.2
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.691158,
+                    34.04997,
+                    -9.2
+                ]
+            },
+            "properties": {
+                "id": "48",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        13.691158,
+                        34.04997,
+                        -9.2
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.168371,
+                    97.300231,
+                    -9.2
+                ]
+            },
+            "properties": {
+                "id": "49",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        20.168371,
+                        97.300231,
+                        -9.2
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.516454,
+                    111.9004,
+                    -9.2
+                ]
+            },
+            "properties": {
+                "id": "50",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        23.516454,
+                        111.9004,
+                        -9.2
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.195411,
+                    30.755214,
+                    -13
+                ]
+            },
+            "properties": {
+                "id": "51",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        79.195411,
+                        30.755214,
+                        -13
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.299312,
+                    17.207544,
+                    -13
+                ]
+            },
+            "properties": {
+                "id": "52",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        77.299312,
+                        17.207544,
+                        -13
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.448962,
+                    8.299156,
+                    -13
+                ]
+            },
+            "properties": {
+                "id": "53",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        56.448962,
+                        8.299156,
+                        -13
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.377867,
+                    10.913798,
+                    -13
+                ]
+            },
+            "properties": {
+                "id": "54",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        36.377867,
+                        10.913798,
+                        -13
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.789598,
+                    12.873242,
+                    -13
+                ]
+            },
+            "properties": {
+                "id": "55",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        22.789598,
+                        12.873242,
+                        -13
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.622222,
+                    21.344007,
+                    -13
+                ]
+            },
+            "properties": {
+                "id": "56",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        10.622222,
+                        21.344007,
+                        -13
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.691158,
+                    34.04997,
+                    -13
+                ]
+            },
+            "properties": {
+                "id": "57",
+                "name": "new_point",
+                "render_name": "HNTZCNL",
+                "render_props": {
+                    "time_stamp": -1,
+                    "render_name": "HNTZCNL"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1.0
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        13.691158,
+                        34.04997,
+                        -13
+                    ]
+                }
+            }
+        }
+    ]
+}

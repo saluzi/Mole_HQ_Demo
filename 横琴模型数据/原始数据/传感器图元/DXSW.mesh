@@ -1,0 +1,601 @@
+{
+    "type": "FeatureCollection",
+    "name": "DXSW",
+    "file_type": "mesh",
+    "data_type": "mesh_data",
+    "color": [
+        117,
+        152,
+        176,
+        0
+    ],
+    "global_color": true,
+    "time_stamp": 1586007763,
+    "properties": {
+        "rotate": [
+            0,
+            0,
+            0
+        ],
+        "translate": [
+            0,
+            0,
+            0
+        ],
+        "matrix": [
+            [
+                1,
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                1,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                1,
+                0
+            ],
+            [
+                0,
+                0,
+                0,
+                1
+            ]
+        ],
+        "use_matrix": true,
+        "transform": true
+    },
+    "shapes_file_path": [],
+    "shapes_file_path_relative": [
+        "DXSW.json.brep"
+    ],
+    "shapes_file_type": "brep",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.725766,
+                    129.197322,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "0",
+                "name": "new_point",
+                "render_name": "DXSW",
+                "render_props": {
+                    "time_stamp": -1,
+                    "sensor_id": "w1",
+                    "render_name": "DXSW"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        69.725766,
+                        129.197322,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.164973,
+                    116.48107,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "1",
+                "name": "new_point",
+                "render_name": "DXSW",
+                "render_props": {
+                    "time_stamp": -1,
+                    "sensor_id": "w2",
+                    "render_name": "DXSW"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        103.164973,
+                        116.48107,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.875586,
+                    81.991276,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "2",
+                "name": "new_point",
+                "render_name": "DXSW",
+                "render_props": {
+                    "time_stamp": -1,
+                    "sensor_id": "w3",
+                    "render_name": "DXSW"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        97.875586,
+                        81.991276,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    92.814283,
+                    48.202406,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "3",
+                "name": "new_point",
+                "render_name": "DXSW",
+                "render_props": {
+                    "time_stamp": -1,
+                    "sensor_id": "w4",
+                    "render_name": "DXSW"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        92.814283,
+                        48.202406,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.828844,
+                    10.260417,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "4",
+                "name": "new_point",
+                "render_name": "DXSW",
+                "render_props": {
+                    "time_stamp": -1,
+                    "sensor_id": "w5",
+                    "render_name": "DXSW"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        86.828844,
+                        10.260417,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.203963,
+                    6.505719,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "5",
+                "name": "new_point",
+                "render_name": "DXSW",
+                "render_props": {
+                    "time_stamp": -1,
+                    "sensor_id": "w6",
+                    "render_name": "DXSW"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        80.203963,
+                        6.505719,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.467652,
+                    0.230038,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "6",
+                "name": "new_point",
+                "render_name": "DXSW",
+                "render_props": {
+                    "time_stamp": -1,
+                    "sensor_id": "w7",
+                    "render_name": "DXSW"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        44.467652,
+                        0.230038,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.388589,
+                    5.535522,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "7",
+                "name": "new_point",
+                "render_name": "DXSW",
+                "render_props": {
+                    "time_stamp": -1,
+                    "sensor_id": "w8",
+                    "render_name": "DXSW"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        -1.388589,
+                        5.535522,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.819893,
+                    39.17926,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "8",
+                "name": "new_point",
+                "render_name": "DXSW",
+                "render_props": {
+                    "time_stamp": -1,
+                    "sensor_id": "w9",
+                    "render_name": "DXSW"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        3.819893,
+                        39.17926,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.189519,
+                    73.6322,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "9",
+                "name": "new_point",
+                "render_name": "DXSW",
+                "render_props": {
+                    "time_stamp": -1,
+                    "sensor_id": "w10",
+                    "render_name": "DXSW"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        9.189519,
+                        73.6322,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.457693,
+                    107.669011,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "10",
+                "name": "new_point",
+                "render_name": "DXSW",
+                "render_props": {
+                    "time_stamp": -1,
+                    "sensor_id": "w11",
+                    "render_name": "DXSW"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        15.457693,
+                        107.669011,
+                        3.9
+                    ]
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.546691,
+                    132.939498,
+                    3.9
+                ]
+            },
+            "properties": {
+                "id": "11",
+                "name": "new_point",
+                "render_name": "DXSW",
+                "render_props": {
+                    "time_stamp": -1,
+                    "sensor_id": "w12",
+                    "render_name": "DXSW"
+                },
+                "parameters": {
+                    "axis": {
+                        "x": [
+                            1,
+                            0,
+                            0
+                        ]
+                    },
+                    "LOD": 0,
+                    "args": [
+                        1
+                    ],
+                    "type": [
+                        "float"
+                    ],
+                    "des": [
+                        "°ë¾¶"
+                    ],
+                    "coordinate": [
+                        19.546691,
+                        132.939498,
+                        3.9
+                    ]
+                }
+            }
+        }
+    ]
+}

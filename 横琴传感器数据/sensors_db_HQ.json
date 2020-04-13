@@ -1,119 +1,140 @@
 {
-  "type": "FeatureCollection",
-  "name": "ºáÇÙ¼à²âÊý¾Ý",
-  "data_type": "sensors_db_data",
-  "time_stamp": 1551605063,
-  "color": [117,152,176,0],
-  "global_color": true,
-  "properties_map": {},
-  "db_path": "./plugins/sensors_db/sensors_db_HQ.db",
-  "sensor_type_station": [0,1,0],
-  "excel_import_format": {
-    "DXSWJCSJ": {
-      "sheet_index": 0,
-      "row_start_index": 1,
-      "row_head_index": 0,
-      "sensor_number_col":2,
-      "time_col":3,
-      "properties_col_map": {
-          "SWZ":4
-      }
+    "type": "FeatureCollection",
+    "name": "ºáÇÙ¼à²âÊý¾Ý",
+    "data_type": "sensors_db_data",
+    "time_stamp": 1551605063,
+    "color": [
+        117,
+        152,
+        176,
+        0
+    ],
+    "global_color": true,
+    "properties_map": {},
+    "db_path": "./plugins/sensors_db/sensors_db_HQ.db",
+    "sensor_type_station": [
+        0,
+        1,
+        0
+    ],
+    "excel_import_format": {
+        "DXSWJCSJ": {
+            "sheet_index": 0,
+            "row_start_index": 1,
+            "row_head_index": 0,
+            "sensor_number_col": 2,
+            "time_col": 3,
+            "properties_col_map": {
+                "SWZ": 4
+            }
+        },
+        "DLQDSPWY": {
+            "sheet_index": 0,
+            "row_start_index": 1,
+            "row_head_index": 0,
+            "sensor_number_col": 2,
+            "time_col": 3,
+            "properties_col_map": {
+                "DLQSPWY": 4
+            }
+        },
+        "DLQDSXWY": {
+            "sheet_index": 0,
+            "row_start_index": 1,
+            "row_head_index": 0,
+            "sensor_number_col": 2,
+            "time_col": 3,
+            "properties_col_map": {
+                "DLQSXWY": 4
+            }
+        },
+        "LZSPWY": {
+            "sheet_index": 0,
+            "row_start_index": 1,
+            "row_head_index": 0,
+            "sensor_number_col": 2,
+            "time_col": 3,
+            "properties_col_map": {
+                "LZSPWY": 4
+            }
+        },
+        "LZSXWY": {
+            "sheet_index": 0,
+            "row_start_index": 1,
+            "row_head_index": 0,
+            "sensor_number_col": 2,
+            "time_col": 3,
+            "properties_col_map": {
+                "LZSXWY": 4
+            }
+        },
+        "SCSPWY": {
+            "sheet_index": 0,
+            "row_start_index": 1,
+            "row_head_index": 0,
+            "sensor_number_col": 2,
+            "time_col": 3,
+            "properties_col_map": {
+                "SD": 5,
+                "BQWY": 4
+            }
+        },
+        "ZBDLSPWY": {
+            "sheet_index": 0,
+            "row_start_index": 1,
+            "row_head_index": 0,
+            "sensor_number_col": 2,
+            "time_col": 3,
+            "properties_col_map": {
+                "SPWY": 4
+            }
+        },
+        "ZBDLCJWY": {
+            "sheet_index": 0,
+            "row_start_index": 1,
+            "row_head_index": 0,
+            "sensor_number_col": 2,
+            "time_col": 3,
+            "properties_col_map": {
+                "CJWY": 4
+            }
+        },
+        "HNTZCZLJC": {
+            "sheet_index": 0,
+            "row_start_index": 1,
+            "row_head_index": 0,
+            "sensor_number_col": 2,
+            "time_col": 3,
+            "properties_col_map": {
+                "ZCZL": 4
+            }
+        }
     },
-    "DLQDSPWY": {
-      "sheet_index": 0,
-      "row_start_index": 1,
-      "row_head_index": 0,
-      "sensor_number_col":2,
-      "time_col":3,
-      "properties_col_map": {
-          "DLQSPWY":4
-      }
-    },
-    "DLQDSXWY": {
-      "sheet_index": 0,
-      "row_start_index": 1,
-      "row_head_index": 0,
-     "sensor_number_col":2,
-      "time_col":3,
-      "properties_col_map": {
-          "DLQSXWY":4
-      }
-    },
-	"LZSPWY": {
-      "sheet_index": 0,
-      "row_start_index": 1,
-      "row_head_index": 0,
-	  "sensor_number_col":2,
-      "time_col":3,
-      "properties_col_map": {
-          "LZSPWY":4
-      }
-    },
-    "LZSXWY": {
-      "sheet_index": 0,
-      "row_start_index": 1,
-      "row_head_index": 0,
-	  "sensor_number_col":2,
-      "time_col":3,
-      "properties_col_map": {
-          "LZSXWY":4
-      }
-    },
-	"SCSPWY": {
-      "sheet_index": 0,
-      "row_start_index": 1,
-      "row_head_index": 0,
-	  "sensor_number_col":2,
-      "time_col":3,
-      "properties_col_map": {
-          "SD":5,
-		  "BQWY":4
-      }
-    },
-    "ZBDLSPWY": {
-      "sheet_index": 0,
-      "row_start_index": 1,
-      "row_head_index": 0,
-	  "sensor_number_col":2,
-      "time_col":3,
-      "properties_col_map": {
-          "SPWY":4
-      }
-    },
-    "ZBDLCJWY": {
-      "sheet_index": 0,
-      "row_start_index": 1,
-      "row_head_index": 0,
-	  "sensor_number_col":2,
-      "time_col":3,
-      "properties_col_map": {
-          "CJWY":4
-      }
-    },
-    "HNTZCZLJC": {
-      "sheet_index": 0,
-      "row_start_index": 1,
-      "row_head_index": 0,
-	  "sensor_number_col":2,
-      "time_col":3,
-      "properties_col_map": {
-          "ZCZL":4
-      }
-    }
-  },
-  "sensor_id_binding":[
-	{
-		"sensor_id":"dxsw1",
-		"sensor_type":"SXWY",
-		"sensor_number":"PV1",
-		"property_name":"BCGC"
-	},
-	{
-		"sensor_id":"dxsw2",
-		"sensor_type":"SXWY",
-		"sensor_number":"PV2",
-		"property_name":"BCGC"
-	}
-  ],
-  "features": []
+    "sensor_id_binding": [
+        {
+            "sensor_id": "w1",
+            "sensor_type": "DXSWJCSJ",
+            "sensor_number": "W1",
+            "property_name": "SWZ"
+        },
+        {
+            "sensor_id": "w2",
+            "sensor_type": "DXSWJCSJ",
+            "sensor_number": "W2",
+            "property_name": "SWZ"
+        },
+        {
+            "sensor_id": "w3",
+            "sensor_type": "DXSWJCSJ",
+            "sensor_number": "W3",
+            "property_name": "SWZ"
+        },
+        {
+            "sensor_id": "w4",
+            "sensor_type": "DXSWJCSJ",
+            "sensor_number": "W4",
+            "property_name": "SWZ"
+        }
+    ],
+    "features": []
 }
