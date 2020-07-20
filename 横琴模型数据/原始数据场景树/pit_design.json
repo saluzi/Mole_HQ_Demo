@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "name": "pit_demo",
+    "name": "pit_design",
     "file_type": "pit",
     "data_type": "pit_final_data",
     "time_stamp": 1551605063,
@@ -11,14 +11,8 @@
         0
     ],
     "global_color": false,
-    "shapes_file_path": [
-        "C:/Users/linan/Desktop/HQ_prj/原始数据/坑体土方\\pit_demo.json.brep",
-        "C:/Users/linan/Desktop/HQ_prj/原始数据场景树\\pit_demo.json.brep",
-        "D:/workspaces/git_workspaces/Mole_HQ_Demo/横琴模型数据/原始数据场景树\\pit_demo.json.brep"
-    ],
-    "shapes_file_path_relative": [
-        "pit_demo.json.brep"
-    ],
+    "shapes_file_path": [],
+    "shapes_file_path_relative": [],
     "shapes_file_type": "brep",
     "features": [
         {

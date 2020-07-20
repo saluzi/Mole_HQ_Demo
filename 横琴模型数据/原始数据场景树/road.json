@@ -16,10 +16,8 @@
         0
     ],
     "global_color": true,
-    "shapes_file_path": [
-    ],
-    "shapes_file_path_relative": [
-    ],
+    "shapes_file_path": [],
+    "shapes_file_path_relative": [],
     "shapes_file_type": "brep",
     "features": [
         {

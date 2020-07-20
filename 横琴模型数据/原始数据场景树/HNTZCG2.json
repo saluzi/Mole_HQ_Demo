@@ -51,16 +51,8 @@
         "use_matrix": true,
         "transform": true
     },
-    "shapes_file_path": [
-        "C:/Users/linan/Desktop/tree_b\\HNTZCG2.json.brep",
-        "C:/Users/linan/Desktop/tree_b\\HNTZCG2.json.brep",
-        "C:/Users/linan/Desktop/HQ_prj/原始数据/支护结构场景树\\HNTZCG2.json.brep",
-        "C:/Users/linan/Desktop/HQ_prj/原始数据场景树\\HNTZCG2.json.brep",
-        "D:/workspaces/git_workspaces/Mole_HQ_Demo/横琴模型数据/原始数据场景树\\HNTZCG2.json.brep"
-    ],
-    "shapes_file_path_relative": [
-        "HNTZCG2.json.brep"
-    ],
+    "shapes_file_path": [],
+    "shapes_file_path_relative": [],
     "shapes_file_type": "brep",
     "features": [
         {

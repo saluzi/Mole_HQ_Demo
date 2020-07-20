@@ -120,15 +120,8 @@
     "properties_map": {
         "elevation": "elevation"
     },
-    "shapes_file_path": [
-        "C:/Users/linan/Desktop/tree_b\\broach_demo.json.brep",
-        "C:/Users/linan/Desktop/HQ_prj/原始数据/钻孔数据\\broach_demo.json.brep",
-        "C:/Users/linan/Desktop/HQ_prj/原始数据场景树\\broach_demo.json.brep",
-        "D:/workspaces/git_workspaces/Mole_HQ_Demo/横琴模型数据/原始数据场景树\\broach_demo.json.brep"
-    ],
-    "shapes_file_path_relative": [
-        "broach_demo.json.brep"
-    ],
+    "shapes_file_path": [],
+    "shapes_file_path_relative": [],
     "shapes_file_type": "brep",
     "features": [
         {

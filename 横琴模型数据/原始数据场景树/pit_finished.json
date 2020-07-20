@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "name": "pit_5",
+    "name": "pit_finished",
     "file_type": "pit",
     "data_type": "pit_final_data",
     "time_stamp": 1551605063,
@@ -28,32 +28,40 @@
                 "coordinates": [
                     [
                         [
-                            47.66,
-                            44.94
-                        ],
-                        [
-                            41.272,
-                            6.4015
-                        ],
-                        [
                             3.083,
                             11.956
                         ],
                         [
-                            9.655,
-                            51.885
+                            70.582,
+                            0.847
                         ],
                         [
-                            47.66,
-                            46
+                            81.059,
+                            8.438
+                        ],
+                        [
+                            97.798,
+                            110.083
+                        ],
+                        [
+                            90.291,
+                            120.634
+                        ],
+                        [
+                            22.799,
+                            131.744
+                        ],
+                        [
+                            3.083,
+                            11.956
                         ]
                     ]
                 ]
             },
             "properties": {
                 "name": "pit",
-                "elevation": -10.4,
-                "depth_list": "[3.8]",
+                "elevation": 3.9,
+                "depth_list": "[20.05]",
                 "angle_list": "[0]",
                 "color": "[117,0,176,0]"
             }

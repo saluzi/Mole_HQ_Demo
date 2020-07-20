@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "name": "建筑3b",
+    "name": "building_1a",
     "file_type": "building",
     "data_type": "building_data",
     "time_stamp": 1551605063,
@@ -10,20 +10,14 @@
         "color": "color"
     },
     "color": [
-        117,
-        152,
-        176,
+        170,
+        170,
+        255,
         0
     ],
-    "global_color": false,
-    "shapes_file_path": [
-        "C:/Users/linan/Desktop\\building_new_1.json.brep",
-        "C:/Users/linan/Desktop\\building_new_1.json.brep",
-        "D:/workspaces/git_workspaces/Mole_HQ_Demo/横琴模型数据/原始数据/附属建筑\\building_new_1.json.brep"
-    ],
-    "shapes_file_path_relative": [
-        "building_new_1.json.brep"
-    ],
+    "global_color": true,
+    "shapes_file_path": [],
+    "shapes_file_path_relative": [],
     "shapes_file_type": "brep",
     "features": [
         {
@@ -39,6 +33,14 @@
                 "coordinates": [
                     [
                         [
+                            113.4,
+                            -12.4
+                        ],
+                        [
+                            157.883,
+                            -19.7
+                        ],
+                        [
                             169.2,
                             49.3
                         ],
@@ -47,16 +49,8 @@
                             56.6
                         ],
                         [
-                            134,
-                            100.166
-                        ],
-                        [
-                            146.118,
-                            100.145
-                        ],
-                        [
-                            169.2,
-                            49.3
+                            113.4,
+                            -12.4
                         ]
                     ]
                 ]
@@ -64,7 +58,7 @@
             "properties": {
                 "name": "bnd2",
                 "elevation": -11.1,
-                "height": 35,
+                "height": 195,
                 "color": "[0,152,176,0]"
             }
         }
