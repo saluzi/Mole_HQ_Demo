@@ -51,12 +51,8 @@
         "use_matrix": true,
         "transform": true
     },
-    "shapes_file_path": [
-        "C:/Users/linan/Desktop/tree_b\\SanZJBZH4_1.json.brep"
-    ],
-    "shapes_file_path_relative": [
-        "SanZJBZH4_1.json.brep"
-    ],
+    "shapes_file_path": [],
+    "shapes_file_path_relative": [],
     "shapes_file_type": "brep",
     "features": [
         {

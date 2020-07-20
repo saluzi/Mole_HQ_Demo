@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "name": "½¨Öþ3b",
+    "name": "ï¿½ï¿½ï¿½ï¿½3b",
     "file_type": "building",
     "data_type": "building_data",
     "time_stamp": 1551605063,
@@ -17,11 +17,8 @@
     ],
     "global_color": false,
     "shapes_file_path": [
-        "C:/Users/linan/Desktop\\building_new_1.json.brep",
-        "C:/Users/linan/Desktop\\building_new_1.json.brep"
     ],
     "shapes_file_path_relative": [
-        "building_new_1.json.brep"
     ],
     "shapes_file_type": "brep",
     "features": [

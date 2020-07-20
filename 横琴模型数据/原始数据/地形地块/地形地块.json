@@ -20,10 +20,8 @@
     ],
     "global_color": true,
     "shapes_file_path": [
-        "C:/Users/linan/Desktop/tree_b\\terrain.json.brep"
     ],
     "shapes_file_path_relative": [
-        "terrain.json.brep"
     ],
     "shapes_file_type": "brep",
     "features": [
